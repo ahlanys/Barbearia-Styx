@@ -1,0 +1,17 @@
+
+    p{text-align: center;}
+        .tituloprincipal{padding-right: 20px;}
+        #banner {width: 100%; }
+        .principal {background: #cccccc;
+        padding: 30px;}
+        #missão {font-size: 20px;}
+        em strong {color: red;}
+        .beneficios {background: #ffff;
+        padding: 20px;}
+        ul{display: inline-block;
+        vertical-align: top;
+    width: 20%;
+       margin-right: 15%;}
+        .imagembeneficios{width: 50%;}
+        .itens {font-style: italic;}
+    h3{text-align: center;}
